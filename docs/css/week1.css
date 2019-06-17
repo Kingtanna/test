@@ -2,3 +2,131 @@
   margin: 0; 
   font-family: Helvetica, sans-serif;
 }
+
+.first-head{
+	float:left;
+}
+
+ul li{
+	float:right;
+	list-style: none;
+	margin-left:10px;
+}
+
+.background1{
+	clear:left;
+}
+
+.footer{
+	clear:right;
+}
+
+.header{
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+ul li:not(.image){
+	height: 24px;
+	line-height: 24px;
+
+}
+
+.background1{
+	height: 600px;
+	background: url(../assert/week1/hero.jpg);
+	background-size: 100% 100%;
+}
+
+.description{
+	color: white;
+	text-align: center;
+	padding-top: 230px;
+}
+
+main{
+	clear: both;
+}
+
+h1{
+	font-size: 50px;
+}
+
+h2{
+	font-size: 40px;
+}
+p{
+	font-size: 10px;
+	padding-top: 18px;
+}
+
+button{
+	margin-top: 18px;
+}
+
+.SEO_P{
+	width: 240px;
+}
+
+.background2{
+	float: left;
+	padding-left: 20px;
+	width:50%;
+}
+
+.SEO{
+	float: right;
+	clear: right;
+	padding-top: 100px;
+	width: 48%;
+	text-align: center;
+}
+
+.Portfolio_P{
+	width: 240px;
+}
+
+.background3{
+	float: right;
+	float: left;
+	width: 50%;
+	clear: right;
+}
+
+.Portfolio{
+		width: 50%;
+	    padding-top: 100px;
+	    /*height: 480px;*/
+	    float: left;
+	    text-align: center;
+}
+
+.footer{
+	clear: both;
+	height: 150px;
+	width: 100%;
+	background: #000000;
+	color: white;
+}
+
+.width2253{
+	width: 1200px;
+	margin: 0 auto;
+	overflow: hidden;
+}
+
+.SEO_Part{
+	display: inline-block;
+	text-align: left;
+}
+
+.Portfolio_Part{
+	display: inline-block;
+	text-align: left;
+}
+
+.third_part_component{
+	background: #eee;
+}
+
+
