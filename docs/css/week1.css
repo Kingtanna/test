@@ -5,12 +5,14 @@
 
 .first-head{
 	float:left;
+	color: #928b8b;
 }
 
 ul li{
 	float:right;
 	list-style: none;
 	margin-left:10px;
+	color: #928b8b;
 }
 
 .background1{
@@ -66,6 +68,8 @@ button{
 
 .SEO_P{
 	width: 240px;
+	line-height:20px;
+	font-size: 12px
 }
 
 .background2{
@@ -84,6 +88,8 @@ button{
 
 .Portfolio_P{
 	width: 240px;
+	line-height:20px;
+	font-size: 12px
 }
 
 .background3{
@@ -129,4 +135,25 @@ button{
 	background: #eee;
 }
 
+.download{
+	height: 40px;
+	width: 160px;
+	background: none;
+	color: white;
+}
 
+.readmore1{
+	height: 40px;
+	width: 160px;
+	background: none;
+	color: white;
+	background: #6c55bf;
+	border: none;
+
+}
+
+footer p{
+	height: 150px;
+	line-height: 150px;
+	font-size: 12px
+}
